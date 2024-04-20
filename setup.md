@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Setup
-subtitle: Installation Guide (2 methods)
+subtitle: Installation Guide
 ---
 
 ### <u>Before Installation:</u>
