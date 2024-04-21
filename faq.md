@@ -4,14 +4,13 @@ title: FAQ
 subtitle: A list of good questions and bad answers.
 ---
 
-**1. Why not verify on ChatTriggers?**
+**1. Why stop maintaining on ChatTriggers?**
 
-The module was getting too large and I did not want to annoy them with verifying it. You can still use the version on ChatTriggers, but I just won't be updating that one.
-
+- It is much easier for me as a developer to only post to GitHub and maintain my website. The convenience of auto-updates still works if you download the [VolcAddons-1.0](https://raw.githubusercontent.com/Volcaronitee1/VolcAddons/main/forge/VolcAddons-1.0.jar) JAR file from our GitHub repo.
 
 **2. LF Rats**
 
-There will not be any rats, but I am as trustworthy as the next person so take that what you will. Be sure to use trusted rat scanners such as [isthisarat.com](https://isthisarat.com/), or [RatRatter 2.0](https://ktibow.github.io/RatRater2/) to scan your JAR files for rats.
+- There will not be any rats, but I am as trustworthy as the next person so take that what you will. Be sure to use trusted rat scanners such as [isthisarat.com](https://isthisarat.com/), or [RatRatter 2.0](https://ktibow.github.io/RatRater2/) to scan your JAR files for rats.
 
 
 **3. Setup did not work**
